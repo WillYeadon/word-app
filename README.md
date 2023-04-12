@@ -1,5 +1,3 @@
-## Little Lemon
+## Word app
 
-This is the code example for the newsletter subscription application.
-
-![](little_lemon.gif)
+Simple word app
